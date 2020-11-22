@@ -1,5 +1,5 @@
-document.
-
-function click() {
+	function click() {
 	document.getElementsByClassName('.upperP').value = '.lowerP';
+	}	
 }
+
