@@ -1,4 +1,4 @@
 function click() {
-document.getElementsByClassName('.upperP').value = '.lowerP';
+	document.getElementsByClassName('.upperP').innerHTML = 'Bleh';
 }
 
