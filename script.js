@@ -1,6 +1,4 @@
-document.addEventListener("DOMContentLoaded") {
-	function click() {
-	document.getElementsByClassName('.upperP').value = '.lowerP';
-	}	
+function click() {
+document.getElementsByClassName('.upperP').value = '.lowerP';
 }
 
