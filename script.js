@@ -1,3 +1,5 @@
+document.
+
 function click() {
-	document.getElementById('upperP').value = 'lowerP'
+	document.getElementsByClassName('.upperP').value = '.lowerP';
 }
