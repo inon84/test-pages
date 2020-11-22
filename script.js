@@ -1,5 +1,5 @@
 function click() {
-	document.getElementsByClassName('.upperP').innerHTML = 'Bleh';
+	document.getElementsById('upperP').innerHTML = "Empty.";
 	console.log('success')
 }
 
